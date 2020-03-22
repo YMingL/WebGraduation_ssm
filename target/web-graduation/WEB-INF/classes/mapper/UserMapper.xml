@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.yang.webgraduation.dao.UserMapper">
+  <resultMap id="BaseResultMap" type="com.yang.webgraduation.entity.User">
+    <constructor>
+      <idArg column="userId" javaType="java.lang.String" jdbcType="VARCHAR" />
+      <arg column="userName" javaType="java.lang.String" jdbcType="VARCHAR" />
+      <arg column="password" javaType="java.lang.String" jdbcType="VARCHAR" />
+      <arg column="phone" javaType="java.lang.String" jdbcType="VARCHAR" />
+      <arg column="address" javaType="java.lang.String" jdbcType="VARCHAR" />
+    </constructor>
+  </resultMap>
+
+  <sql id="Base_Column_List">
+    userId, userName, address, phone,password
+  </sql>
+
+  <select id="selectById" parameterType="java.lang.String" resultMap="BaseResultMap">
+    select 
+    <include refid="Base_Column_List" />
+    from user
+    where userId = #{userid,jdbcType=VARCHAR}
+  </select>
+
+  <select id="selectByName" parameterType="java.lang.String" resultMap="BaseResultMap">
+    select
+    <include refid="Base_Column_List" />
+    from user
+    where userName = #{userName,jdbcType=VARCHAR}
+    limit 1
+
+  </select>
+
+  <delete id="deleteById" parameterType="java.lang.String">
+    delete from user
+    where userId = #{userid,jdbcType=VARCHAR}
+  </delete>
+
+  <insert id="insert" parameterType="com.yang.webgraduation.entity.User">
+    insert into user (userId, userName, address, 
+      phone,password)
+    values (#{userid,jdbcType=VARCHAR}, #{username,jdbcType=VARCHAR}, #{address,jdbcType=VARCHAR}, 
+      #{phone,jdbcType=VARCHAR},#{password,jdbcType=VARCHAR})
+  </insert>
+
+  <update id="updateById" parameterType="com.yang.webgraduation.entity.User">
+    update user
+    set userName = #{username,jdbcType=VARCHAR},
+      address = #{address,jdbcType=VARCHAR},
+      phone = #{phone,jdbcType=VARCHAR},
+      password = #{password,jdbcType=VARCHAR}
+    where userId = #{userid,jdbcType=VARCHAR}
+  </update>
+
+  <select id="getUserGold" parameterType="java.lang.String" resultType="java.lang.Integer">
+    select goldNum from user where userName = #{userName,jdbcType=VARCHAR}
+  </select>
+
+  <update id="updateUserGold" parameterType="com.yang.webgraduation.dto.SqlParams">
+    update user set goldNum = goldNum + #{goldNum,jdbcType=INTEGER} where userName = #{userName,jdbcType=VARCHAR}
+  </update>
+
+</mapper>

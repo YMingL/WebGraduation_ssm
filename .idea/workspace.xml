@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="webgraduation:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c6cf0be8-9db1-48f3-bc1c-31ef2d2891c8" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/webgraduation$mytomcat.coverage" NAME="mytomcat Coverage Results" MODIFIED="1580276380188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="webgraduation">
+      <favorite_root url="file://$PROJECT_DIR$/src/main/webapp/resources/js/vue.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XEbNyK5pSN9IBiOc8aHFZ2RSvV" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>XMLSpring CoreSpring</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpringModelInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="last_opened_file_path" value="E:/迅雷下载/perfect-ssm-master" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.26743296" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\java\webgraduation\src\main\resources" />
+      <recent name="E:\java\webgraduation\src\main\webapp\resources\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\java\webgraduation\src\main\webapp\WEB-INF\view\Admin" />
+      <recent name="E:\java\webgraduation\src\main\webapp\resources\js" />
+      <recent name="E:\java\webgraduation\src\main\resources\mapper" />
+      <recent name="E:\java\webgraduation\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.mytomcat">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="grailsApplicationRoot" value="" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CategoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="webgraduation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CategoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CategoryTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="webgraduation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CategoryTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="generator" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mytomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.90" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="webgraduation:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_webgraduation" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61906" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="webgraduation:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.CategoryTest.test" />
+      <item itemvalue="JUnit.CategoryTest" />
+      <item itemvalue="Maven.generator" />
+      <item itemvalue="Tomcat Server.mytomcat" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CategoryTest.test" />
+        <item itemvalue="JUnit.CategoryTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.1813793" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\acer\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6cf0be8-9db1-48f3-bc1c-31ef2d2891c8" name="Default" comment="" />
+      <created>1574082469904</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574082469904</updated>
+      <workItem from="1574082483242" duration="5656000" />
+      <workItem from="1574866479894" duration="2080000" />
+      <workItem from="1575469757440" duration="17575000" />
+      <workItem from="1575774585150" duration="29880000" />
+      <workItem from="1576589268450" duration="35306000" />
+      <workItem from="1580272335715" duration="9833000" />
+      <workItem from="1580283460981" duration="71266000" />
+      <workItem from="1580546552645" duration="10498000" />
+      <workItem from="1580564676577" duration="1507000" />
+      <workItem from="1580614179173" duration="20000" />
+      <workItem from="1580614463576" duration="52543000" />
+      <workItem from="1580953136201" duration="32433000" />
+      <workItem from="1581315020920" duration="1662000" />
+      <workItem from="1582199707018" duration="100780000" />
+      <workItem from="1582771891375" duration="111371000" />
+      <workItem from="1583758959214" duration="49898000" />
+      <workItem from="1584156875619" duration="57603000" />
+      <workItem from="1584426522116" duration="47506000" />
+      <workItem from="1584753569641" duration="4810000" />
+      <workItem from="1584764542237" duration="41600000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Template_Data_Languages" timestamp="1584419500202">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Template_Data_Languages/0.0.1536.824@0.0.1536.824" timestamp="1584419500202" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580907125164">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1580907125164" />
+    <state x="432" y="203" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582452778376">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="432" y="203" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1582452778376" />
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1584797600946">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1584797600946" />
+    <state x="553" y="279" width="429" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583327133162">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="553" y="279" width="429" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1583327133162" />
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584528870487">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1584528870487" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1583327448040">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583327448040" />
+    <state width="1198" height="244" key="GridCell.Tab.0.bottom" timestamp="1584857489543">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1198" height="244" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584857489543" />
+    <state width="1198" height="244" key="GridCell.Tab.0.center" timestamp="1584857489543">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1198" height="244" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584857489543" />
+    <state width="1198" height="244" key="GridCell.Tab.0.left" timestamp="1584857489543">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1198" height="244" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584857489543" />
+    <state width="1198" height="244" key="GridCell.Tab.0.right" timestamp="1584857489543">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1198" height="244" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584857489543" />
+    <state width="1198" height="244" key="GridCell.Tab.1.bottom" timestamp="1584857489544">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1198" height="244" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584857489544" />
+    <state width="1198" height="244" key="GridCell.Tab.1.center" timestamp="1584857489543">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1198" height="244" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1584857489543" />
+    <state width="1198" height="244" key="GridCell.Tab.1.left" timestamp="1584857489543">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1198" height="244" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1584857489543" />
+    <state width="1198" height="244" key="GridCell.Tab.1.right" timestamp="1584857489544">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1198" height="244" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584857489543" />
+    <state width="1198" height="244" key="GridCell.Tab.10.bottom" timestamp="1582550970079">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1198" height="244" key="GridCell.Tab.10.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582550970079" />
+    <state width="1198" height="244" key="GridCell.Tab.10.center" timestamp="1582550970077">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1198" height="244" key="GridCell.Tab.10.center/0.0.1536.824@0.0.1536.824" timestamp="1582550970077" />
+    <state width="1198" height="244" key="GridCell.Tab.10.left" timestamp="1582550970076">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1198" height="244" key="GridCell.Tab.10.left/0.0.1536.824@0.0.1536.824" timestamp="1582550970076" />
+    <state width="1198" height="244" key="GridCell.Tab.10.right" timestamp="1582550970078">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1198" height="244" key="GridCell.Tab.10.right/0.0.1536.824@0.0.1536.824" timestamp="1582550970078" />
+    <state width="1198" height="244" key="GridCell.Tab.11.bottom" timestamp="1582550971545">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1198" height="244" key="GridCell.Tab.11.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582550971545" />
+    <state width="1198" height="244" key="GridCell.Tab.11.center" timestamp="1582550971545">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1198" height="244" key="GridCell.Tab.11.center/0.0.1536.824@0.0.1536.824" timestamp="1582550971545" />
+    <state width="1198" height="244" key="GridCell.Tab.11.left" timestamp="1582550971544">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1198" height="244" key="GridCell.Tab.11.left/0.0.1536.824@0.0.1536.824" timestamp="1582550971544" />
+    <state width="1198" height="244" key="GridCell.Tab.11.right" timestamp="1582550971545">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1198" height="244" key="GridCell.Tab.11.right/0.0.1536.824@0.0.1536.824" timestamp="1582550971545" />
+    <state width="1198" height="244" key="GridCell.Tab.18.bottom" timestamp="1584237036663">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1198" height="244" key="GridCell.Tab.18.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584237036663" />
+    <state width="1198" height="244" key="GridCell.Tab.18.center" timestamp="1584237036661">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1198" height="244" key="GridCell.Tab.18.center/0.0.1536.824@0.0.1536.824" timestamp="1584237036661" />
+    <state width="1198" height="244" key="GridCell.Tab.18.left" timestamp="1584237036661">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1198" height="244" key="GridCell.Tab.18.left/0.0.1536.824@0.0.1536.824" timestamp="1584237036660" />
+    <state width="1198" height="244" key="GridCell.Tab.18.right" timestamp="1584237036662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1198" height="244" key="GridCell.Tab.18.right/0.0.1536.824@0.0.1536.824" timestamp="1584237036662" />
+    <state width="1198" height="244" key="GridCell.Tab.19.bottom" timestamp="1584237034592">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1198" height="244" key="GridCell.Tab.19.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584237034592" />
+    <state width="1198" height="244" key="GridCell.Tab.19.center" timestamp="1584237034591">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1198" height="244" key="GridCell.Tab.19.center/0.0.1536.824@0.0.1536.824" timestamp="1584237034591" />
+    <state width="1198" height="244" key="GridCell.Tab.19.left" timestamp="1584237034590">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1198" height="244" key="GridCell.Tab.19.left/0.0.1536.824@0.0.1536.824" timestamp="1584237034590" />
+    <state width="1198" height="244" key="GridCell.Tab.19.right" timestamp="1584237034591">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1198" height="244" key="GridCell.Tab.19.right/0.0.1536.824@0.0.1536.824" timestamp="1584237034591" />
+    <state width="1198" height="244" key="GridCell.Tab.2.bottom" timestamp="1584857489544">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1198" height="244" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584857489544" />
+    <state width="1198" height="244" key="GridCell.Tab.2.center" timestamp="1584857489544">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1198" height="244" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1584857489544" />
+    <state width="1198" height="244" key="GridCell.Tab.2.left" timestamp="1584857489544">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1198" height="244" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1584857489544" />
+    <state width="1198" height="244" key="GridCell.Tab.2.right" timestamp="1584857489544">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1198" height="244" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1584857489544" />
+    <state width="1198" height="244" key="GridCell.Tab.3.bottom" timestamp="1584765800207">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1198" height="244" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584765800207" />
+    <state width="1198" height="244" key="GridCell.Tab.3.center" timestamp="1584765800207">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1198" height="244" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1584765800207" />
+    <state width="1198" height="244" key="GridCell.Tab.3.left" timestamp="1584765800207">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1198" height="244" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1584765800207" />
+    <state width="1198" height="244" key="GridCell.Tab.3.right" timestamp="1584765800207">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1198" height="244" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1584765800207" />
+    <state x="52" y="0" key="SettingsEditor" timestamp="1581312240222">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="52" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1581312240222" />
+    <state x="46" y="168" key="com.intellij.ide.util.TipDialog" timestamp="1584764552814">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="46" y="168" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584764552814" />
+    <state x="428" y="85" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583896967481">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="428" y="85" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1583896967481" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1583825135680">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1583825135680" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1583896800873">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1583896800873" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.7/fastjson-1.2.7-sources.jar!/com/alibaba/fastjson/serializer/JSONSerializer.java</url>
+          <line>370</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.7/fastjson-1.2.7-sources.jar!/com/alibaba/fastjson/JSON.java</url>
+          <line>393</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.7/fastjson-1.2.7-sources.jar!/com/alibaba/fastjson/serializer/JSONSerializer.java</url>
+          <line>322</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yang/webgraduation/controller/SearchController.java</url>
+          <line>136</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yang/webgraduation/controller/SearchController.java</url>
+          <line>186</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/Admin/search.jsp</url>
+          <line>147</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/Admin/search.jsp</url>
+          <line>145</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/Admin/goodsPage.jsp</url>
+          <line>216</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+        <watch expression="((java.util.concurrent.ConcurrentHashMap.MapEntry)((java.util.concurrent.ConcurrentHashMap)((MapperProxy)this.h).methodCache).entrySet().toArray()[0]).getKey()" custom="java.util.concurrent.ConcurrentHashMap,java.lang.reflect.Proxy,java.util.concurrent.ConcurrentHashMap.MapEntry,com.yang.webgraduation.service.impl.UserServiceImpl,org.apache.ibatis.binding.MapperProxy" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>webgraduation:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.26743296" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring (webgraduation)|Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.26743296" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jquery-1.4.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.26743296" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8 (1)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.26743296" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|webgraduation</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.26743296" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.26743296" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
